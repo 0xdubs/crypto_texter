@@ -13,4 +13,4 @@ depend on, and they will be installed using:
 pip install -r requirements.txt
 ```
 
-$DOGE to the mooooooon!
+$DOGE to the mooooooon! (This is not financial advice)
