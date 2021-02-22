@@ -14,15 +14,27 @@ pip install -r requirements.txt
 ```
 
 ## Step 1 - Try running test_script_1.py
-The `test_script_1.py` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+The `test_script_1_twilio.py` file should be the first file you attempt to run and it should verify whether you are able to send yourself texts via Twilio. Refer to the medium article to follow a more in depth discussion of this test file. To verify if it works, try:
+
+```
+python test_script_1_twilio.py
+```
+
 
 ## Step 2 - Try running test_script_2.py
-The `test_script_1.py` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+The `test_script_2_robinhood.py` file should be the second file you attempt to run and it should verify whether you are able to acces your own Robinhood account programmatically. Please refer to the medium article to follow a more in depth discussion of this test file. To verify if it works, try:
+
+```
+python test_script_2_robinhood.py
+```
+
+
 
 ## Step 3 - Run full automation
-The `test_script_1.py` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+If you have both of the test scripts above operational, all you should need to do now is run the following code:
 
-$DOGE to the mooooooon! (This is not financial advice)
+```
+python stonks_forever.py
+```
+
+And boom! $DOGE to the mooooooon! (This is not financial advice)
