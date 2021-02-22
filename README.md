@@ -13,4 +13,16 @@ depend on, and they will be installed using:
 pip install -r requirements.txt
 ```
 
+## Step 1 - Try running test_script_1.py
+The `test_script_1.py` file should list all Python libraries that your notebooks
+depend on, and they will be installed using:
+
+## Step 2 - Try running test_script_2.py
+The `test_script_1.py` file should list all Python libraries that your notebooks
+depend on, and they will be installed using:
+
+## Step 3 - Run full automation
+The `test_script_1.py` file should list all Python libraries that your notebooks
+depend on, and they will be installed using:
+
 $DOGE to the mooooooon! (This is not financial advice)
